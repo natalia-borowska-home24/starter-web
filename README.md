@@ -15,3 +15,8 @@ Sample website with plenty of files for demos, blah blah, blah.
 Blah blah blah.
 
 ## How to contribute
+
+## Copyright
+
+2022 Git.Training
+
