@@ -16,6 +16,8 @@ Blah blah blah.
 
 ## How to contribute
 
+Blah blah
+
 ## Copyright
 
 2022 Git.Training
