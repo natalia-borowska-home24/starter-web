@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-It's a simple project for showing how Git and Github work.
+It's a simple project for showing how Git and Github work. Some changes frome feature branch.
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Blah blah blah.
 
 ## How to contribute
 
-Blah blah some more text for rebasing
+Blah blah some more text for rebasing and this is from the feature branch.
 
 ## Copyright
 
