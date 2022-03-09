@@ -16,7 +16,7 @@ Blah blah blah.
 
 ## How to contribute
 
-Blah blah
+Blah blah some more text for rebasing
 
 ## Copyright
 
