@@ -5,6 +5,8 @@
 
     Blah blah blah
 
+    Some text
+
 # THANKS
 
     Thanks to my teacher.
