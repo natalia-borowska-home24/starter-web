@@ -20,5 +20,5 @@ Blah blah some more text for rebasing and this is from the feature branch.
 
 ## Copyright
 
-2022 Git.Training
+2022 Git.Training All rights reserved
 
