@@ -12,7 +12,7 @@ Sample website with plenty of files for demos, blah blah, blah.
 
 ## Deployment
 
-Blah blah blah.
+Blah blah blah. SOme more text here after stash
 
 ## How to contribute
 
